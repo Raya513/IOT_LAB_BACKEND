@@ -1,1 +1,1 @@
-# IOT_LAB_BACKEND
+A backend application for a simple food ordering application
